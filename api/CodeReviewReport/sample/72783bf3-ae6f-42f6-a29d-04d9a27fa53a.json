@@ -1,0 +1,1 @@
+{"issues":[{"file":"aws-amplify-auth-starters/src/App.js","type":"CodeSmell","message":"'user' is already declared in the upper scope.","severity":"Major","line":29}]}
