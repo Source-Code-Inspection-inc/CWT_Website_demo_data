@@ -1,1 +1,0 @@
-{"issues":[{"file":"lsteamclient/gen_wrapper.py","type":"Security Hotspot","message":"Make sure that using a regular expression is safe here.","severity":"Medium","line":1214},{"file":"vrclient_x64/gen_wrapper.py","type":"Security Hotspot","message":"Make sure that using a regular expression is safe here.","severity":"Medium","line":1352}]}
